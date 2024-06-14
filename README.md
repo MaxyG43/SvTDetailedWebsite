@@ -1,3 +1,3 @@
 # SvTDetailedWebsite
 
-Darkly bishh...clone this repo with git bash
+Darkly clone this repo with git bash
